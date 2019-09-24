@@ -2,12 +2,9 @@
 
 ## Team Information
 
-| Name | NEU ID | Email Address |
+| Name        | NEU ID    | Email Address      |
 | pengwei cui | 001449785 | cui.p@husky.neu.edu|
-| | | |
-| | | |
-| | | |
-| | | |
+
 
 ## Technology Stack
 
