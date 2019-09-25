@@ -11,12 +11,33 @@
 
 ## Technology Stack
 
+Programming Language: Java 1.8
+Web Framework: Springboot 2.1.2.RELEASE
+Database: PostgreSQL
+Database Connection Pool: DruidDataSource
+Data Persistence Framework: myBatis
+IDE: IntelliJ
+Plugins: Lombok
+Version Control: Git
+Project Management: Maven
+Test Tool: Postman
+Development Environment: Ubuntu
 
 ## Build Instructions
 
+Clone the repository into a local repository
+
+Use Maven to build: $ mvn clean install
+
+run the application by executing: 
+
+The server will be run at , test can be done using Postman.
 
 ## Deploy Instructions
 
+PostSQL port is default .
+
+Server: server side as RESTful architectural style. As a default, it is listening at 
 
 ## Running Tests
 
