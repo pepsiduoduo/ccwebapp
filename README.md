@@ -12,15 +12,25 @@
 ## Technology Stack
 
 Programming Language: Java 1.8
+
 Web Framework: Springboot 2.1.2.RELEASE
+
 Database: PostgreSQL
+
 Database Connection Pool: DruidDataSource
+
 Data Persistence Framework: myBatis
+
 IDE: IntelliJ
+
 Plugins: Lombok
+
 Version Control: Git
+
 Project Management: Maven
+
 Test Tool: Postman
+
 Development Environment: Ubuntu
 
 ## Build Instructions
