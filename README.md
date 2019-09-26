@@ -15,7 +15,7 @@ Programming Language: Java 1.8
 
 Web Framework: Springboot 2.1.2.RELEASE
 
-Database: PostgreSQL
+Database: MySQL
 
 Database Connection Pool: DruidDataSource
 
@@ -39,15 +39,15 @@ Clone the repository into a local repository
 
 Use Maven to build: $ mvn clean install
 
-run the application by executing: 
+run the application by executing: $ java -jar target/csye6225-0.0.1-SNAPSHOT.jar
 
-The server will be run at , test can be done using Postman.
+The server will be run at  http://localhost:8081/ , test can be done using Postman.
 
 ## Deploy Instructions
 
-PostSQL port is default .
+PostSQL port is default 3306 .
 
-Server: server side as RESTful architectural style. As a default, it is listening at 
+Server: server side as RESTful architectural style. As a default, it is listening at http://localhost:8081/
 
 ## Running Tests
 
