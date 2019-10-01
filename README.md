@@ -45,7 +45,7 @@ The server will be run at  http://localhost:8081/ , test can be done using Postm
 
 ## Deploy Instructions
 
-PostSQL port is default 3306 .
+MySQL port is default 3306 .
 
 Server: server side as RESTful architectural style. As a default, it is listening at http://localhost:8081/
 
