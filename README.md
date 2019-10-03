@@ -29,7 +29,7 @@ Version Control: Git
 
 Project Management: Maven
 
-Test Tool: Postman
+Test Tool: Postman。。
 
 Development Environment: Ubuntu
 
