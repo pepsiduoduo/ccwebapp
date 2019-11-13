@@ -2,11 +2,18 @@
 
 ## Team Information
 
-| Name        | NEU ID    | Email Address      |
+| Name        | NEU ID    | Email Address           |
 
-| pengwei cui | 001449785 | cui.p@husky.neu.edu|
+| Dezhi Yang  | 001447703 | yang.dez@husky.neu.edu  |
+
+| Zenan Lin   | 001403847 | lin.ze@husky.neu.edu    |
+
+| pengwei cui | 001449785 | cui.p@husky.neu.edu     |
 
 | shi rui Liu | 001400094 | liu.shirui@husky.neu.edu|
+
+
+
 
 
 ## Technology Stack
@@ -29,7 +36,7 @@ Version Control: Git
 
 Project Management: Maven
 
-Test Tool: Postman。。
+Test Tool: Postman
 
 Development Environment: Ubuntu
 
@@ -41,13 +48,14 @@ Use Maven to build: $ mvn clean install
 
 run the application by executing: $ java -jar target/csye6225-0.0.1-SNAPSHOT.jar
 
-The server will be run at  http://localhost:8081/ , test can be done using Postman.
+The server will be run at http://localhost:8081/ , test can be done using Postman.
+
 
 ## Deploy Instructions
 
 MySQL port is default 3306 .
 
-Server: server side as RESTful architectural style. As a default, it is listening at http://localhost:8081/
+Server: server side as RESTful architectural style. As a default, it is listening at http://localhost:8080/
 
 ## Running Tests
 
